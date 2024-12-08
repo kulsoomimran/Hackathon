@@ -110,7 +110,7 @@ function ProductCard() {
           <h1 className="font-semibold text-base">Nike Air Max 97 SE</h1>
           <span className="text-sm text-gray-700">MRP: ₹ 16 995.00</span>
         </div>
-        <p className="text-sm text-gray-600 mt-1">Men's Shoes</p>
+        <p className="text-sm text-gray-600 mt-1">Men&apos;s Shoes</p>
         <p className="text-sm text-gray-600">Flat Pewter/Light Bone/Black/White</p>
         <div className="flex mt-4">
           <div className="mr-6">
