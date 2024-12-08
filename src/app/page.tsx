@@ -1,8 +1,12 @@
+import JoinUS from "./JoinUs/page";
 
 export default function Home() {
   return (
     <div>
-      Hackathon
+      <div className="w-full">
+        <JoinUS />
+      </div>
+      
     </div>
   );
 }
