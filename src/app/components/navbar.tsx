@@ -22,7 +22,7 @@ const Navbar = () => {
                 </li>
                 <span className="h-[14px] w-px bg-gray-400" />
                 <li>
-                  <Link href="#">Help</Link>
+                  <Link href="../ContactUs">Help</Link>
                 </li>
                 <span className="h-[14px] w-px bg-gray-400" />
                 <li>
@@ -48,7 +48,7 @@ const Navbar = () => {
             <a href="#" className="text-black hover:underline">
               New & Featured
             </a>
-            <a href="#" className="text-black hover:underline">
+            <a href="../Cart" className="text-black hover:underline">
               Men
             </a>
             <a href="#" className="text-black hover:underline">
@@ -92,7 +92,7 @@ const Navbar = () => {
           <a href="#" className="block text-black py-1 hover:underline">
             New & Featured
           </a>
-          <a href="#" className="block text-black py-1 hover:underline">
+          <a href="../Cart" className="block text-black py-1 hover:underline">
             Men
           </a>
           <a href="#" className="block text-black py-1 hover:underline">

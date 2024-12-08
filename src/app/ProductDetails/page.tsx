@@ -36,7 +36,7 @@ export default function ProductDetails() {
         <p className={`text-4xl font-medium text-deepBlack mb-6 ${poppins.className}`}>
           ₹ 8 695.00
         </p>
-        <button className="flex items-center justify-center bg-black text-white py-2 px-6 rounded-md hover:bg-gray-800 transition duration-300">
+        <button className="flex items-center justify-center rounded-full bg-black text-white py-2 px-6 hover:bg-gray-800 transition duration-300">
           <CiShoppingCart className="w-6 h-6 mr-2" />
           Add to Cart
         </button>

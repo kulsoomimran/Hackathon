@@ -48,7 +48,7 @@ const SignIn = () => {
 
         {/* Legal Text */}
         <p className="text-sm text-gray-500 mt-6 text-center">
-          By Logging in, you agree to Nike’s{" "}
+          By Logging in, you agree to Nike&apos;s{" "}
           <a href="#" className="underline hover:text-gray-800">
             Privacy Policy
           </a>{" "}
