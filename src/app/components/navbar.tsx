@@ -45,7 +45,7 @@ const Navbar = () => {
   
           {/* Navigation Links (hidden on mobile) */}
           <nav className="hidden md:flex space-x-6 items-center font-medium">
-            <a href="#" className="text-black hover:underline">
+            <a href="../AllProducts" className="text-black hover:underline">
               New & Featured
             </a>
             <a href="../Cart" className="text-black hover:underline">
@@ -89,7 +89,7 @@ const Navbar = () => {
   
         {/* Mobile Navigation*/}
         <div className="md:hidden bg-white w-full px-4 py-3 hidden" id="mobile-menu">
-          <a href="#" className="block text-black py-1 hover:underline">
+          <a href="../AllProducts" className="block text-black py-1 hover:underline">
             New & Featured
           </a>
           <a href="../Cart" className="block text-black py-1 hover:underline">
